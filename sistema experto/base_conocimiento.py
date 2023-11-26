@@ -19,6 +19,8 @@ def Obtener_respuesta(r1,r2,r3,r4, prop):
         elif r2==2:
             re2 = "12-18"
         elif r2==3:
+            re2 = "19-26"
+        elif r2==4:
             re2 = "27 o más"
             
         #Define el valor que tomara la tercera pregunta
@@ -27,9 +29,9 @@ def Obtener_respuesta(r1,r2,r3,r4, prop):
         elif r3==2:
             re3 = "Discapacidad Fisica"
         elif r3==3:
-            re3 = "Dicapacidad sensorial"
+            re3 = "Discapacidad sensorial"
         elif r3==4:
-            re3 = "Dicapacidad cognitiva"
+            re3 = "Discapacidad cognitiva"
             
         #Define el valor que tomara la cuarta pregunta
         if r4==1:
@@ -75,6 +77,8 @@ def Obtener_Imagen(r1,r2,r3,r4, prop):
         elif r2==2:
             re2 = "12-18"
         elif r2==3:
+            re2 = "19-26"
+        elif r2==4:
             re2 = "27 o más"
             
         #Define el valor que tomara la tercera pregunta
@@ -83,9 +87,9 @@ def Obtener_Imagen(r1,r2,r3,r4, prop):
         elif r3==2:
             re3 = "Discapacidad Fisica"
         elif r3==3:
-            re3 = "Dicapacidad sensorial"
+            re3 = "Discapacidad sensorial"
         elif r3==4:
-            re3 = "Dicapacidad cognitiva"
+            re3 = "Discapacidad cognitiva"
             
         #Define el valor que tomara la cuarta pregunta
         if r4==1:
@@ -130,6 +134,8 @@ def Cambiar_respuesta(r1,r2,r3,r4, res, des):
         elif r2==2:
             re2 = "12-18"
         elif r2==3:
+            re2 = "19-26"
+        elif r2==4:
             re2 = "27 o más"
             
         #Define el valor que tomara la tercera pregunta
@@ -138,9 +144,9 @@ def Cambiar_respuesta(r1,r2,r3,r4, res, des):
         elif r3==2:
             re3 = "Discapacidad Fisica"
         elif r3==3:
-            re3 = "Dicapacidad sensorial"
+            re3 = "Discapacidad sensorial"
         elif r3==4:
-            re3 = "Dicapacidad cognitiva"
+            re3 = "Discapacidad cognitiva"
             
         #Define el valor que tomara la cuarta pregunta
         if r4==1:
