@@ -4,844 +4,128 @@
      "Edad": "6-11",
      "Discapacidad": "no",
      "Lugar": "Escuela",
-     "Respuesta": "Cubo rubik",
-     "Descripcion": "Descripcion: Un juego de destreza para jugar en solitario para pasar el rato",
+     "Resp": "Cubo rubik",
+     "Desc": "Descripcion: Un juego de destreza para jugar en solitario para pasar el rato",
      "Imagen": ".\/juegos\/1.jpg"
     },
     {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Artes",
-     "Respuesta": "combo guitarra eléctrica Ibanez IJRG200-BL",
-     "Descripcion": "Descripccion: Es un modelo ideal para comenzar a tocar guitarra, ademas de tener una buena calidad de sonido y etar a buen precio",
-     "Imagen": ".\/regalos\/2.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Video juegos",
-     "Respuesta": "una consola de videojuegos",
-     "Descripcion": "Descripcion: aseguran horas de diversion para los mas pequeños. Que sea Nintendo porque va dirigido a un publico familar. Como la nueva consola Nintendo Switch",
-     "Imagen": ".\/regalos\/3.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "+20000",
-     "Respuesta": "Laptop Huawei Matebook 13\" AMD Ryzen 7",
-     "Descripcion": "Ofrece una pantalla FHD de 13”; posee una resolución de 2160 x 1440 que permite imágenes brillantes y animadas con ricos detalles, además, su relación de aspecto 3:2 es perfecta para leer y escribir. Su procesador AMD Ryzen 7 y gráficos Radeon Vega 10, un equilibrio óptimo de eficiencia energética y rendimiento. Además, incorpora una memoria RAM de 16 GB, así como 512 GB en estado sólido. Cuenta con entradas USB, type-c y 3.5mm, así como sensor de huella para acceder fácilmente a tu equipo.",
-     "Imagen": ".\/regalos\/4.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Deportes",
-     "Respuesta": "Juego de raquetas infantil de bádminton de la marca Talboy",
-     "Descripcion": "Descripcion: es una opcion de juego completo de raquetas que consta de 2 raquetas de tamaño infantil y otras 2 de adulto, por lo que no solo jugaran con sus amigos si que se podra jugar padres e hijos ",
-     "Imagen": ".\/regalos\/4.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Artes",
-     "Respuesta": "Set de dibujo Emerging Artist Essentials",
-     "Descripcion": "Descripccion: Un set con todo lo que un artista necesitará para sumergirse en el mundo del dibujo: 25 piezas de materiales profesionales en un práctico estuche de calidad con maniquí en miniatura incluido. La caja mide 20,5 x 29,4 x 3,5 cm",
-     "Imagen": ".\/regalos\/5.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Tarjetas de regalo o membrecia",
-     "Descripcion": "Descripcion: hoy en dia son las solicitadas por los niños. Estas tarjetas representan dinero electronico para adquirir diferentes beneficios, solo debes asegurarte que la que lleves sea compatible con la consola del niño",
-     "Imagen": ".\/regalos\/6.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "+20000",
-     "Respuesta": "Asus ZenBook 14",
-     "Descripcion": "El nuevo ZenBook 14 es más portátil es el más delgado, ligero e increíblemente compacto, incluye entradas HDMI, USB-C, USB Type-A y lector de tarjetas MicroSD para una versatilidad inigualable. Diseñado para ofrecer un rendimiento potente, el ZenBook 14 es la elección perfecta para un estilo de vida sin esfuerzo.",
-     "Imagen": ".\/regalos\/8.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Deportes",
-     "Respuesta": "Patinete plegable de la marca Fascol",
-     "Descripcion": "Descripcion: ideal para que los niños de casa inicien en el deporte. El Patinete es ligero, tiene un tamaño ideal y se puede regular según la altura que tenga el niño.",
-     "Imagen": ".\/regalos\/7.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Artes",
-     "Respuesta": "Libro Mi primer Gran Libro del Mundo",
-     "Descripcion": "Descripcion: El mundo puede ser fascinante para los niños y con este libro descubrirán culturas, paisajes y climas de todos los continentes. Incluye actividades, manualidades y más de 200 fotos. Mide 25,6 x 25,8 y está editado por Nathional Geographic Kids",
-     "Imagen": ".\/regalos\/8.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Figuras de acción articuladas de sus personaje favorito de videojuegos",
-     "Descripcion": "Descripcion: ya sea una figura para coleccionar o para jugar es un regalo perfecto para alimentar los gustos del niño y su pasion por los videojuegos.",
-     "Imagen": ".\/regalos\/9.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Deportes",
-     "Respuesta": "Patinete Waveboard",
-     "Descripcion": "Descripccion: Regalo ideal para fomentar la actividad fisica. Este modelo de patinete es especial porque viene con luces led en las ruedas giratorias de 360°.",
-     "Imagen": ".\/regalos\/10.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Artes",
-     "Respuesta": "Maletín de Pinturas para Niñas de Frozen II",
-     "Descripcion": "Descripccion: Las peques de la casa desarrollarán su lado más creativo con este completo kit de pintura de Frozen II en un maletín de +115 ceras, lápices, rotuladores variados, ¡y mucho más!",
-     "Imagen": ".\/regalos\/11.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Gafas Realidad Virtual con juego Educativo Idiomas",
-     "Descripcion": "Descripcion: se trata de u  juego en el que la mision es salvar la galaxia aprendiendo idiomas, ideal si buscas el regalo divertido y educatio para amantes de los videojuegos",
-     "Imagen": ".\/regalos\/12.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Deportes",
-     "Respuesta": "Red para Rebotes. Stiga Sports Football",
-     "Descripcion": "Descripcion: esta red ofrece una solucion al problema de practicar solo un deporte, ya que el balon rebota hacia el jugador para que pueda seguir adelante sin problemas",
-     "Imagen": ".\/regalos\/13.jpg",
-     "Column9": "Cumpleaños",
-     "Column10": "13 pulgadas para abajo",
-     "Column12": "mini atx"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Artes",
-     "Respuesta": "Maletin para pintar tus hadas",
-     "Descripcion": "Descripcion: ideal para las niñas que quieran emoezar en el mundo del arte, trae 3 figuras en blanco de hadas para que las puedan pintar a su imaginacion, ademas de traer u kit de pinturas y pincel",
-     "Imagen": ".\/regalos\/14.jpg",
-     "Column9": "Graduacion",
-     "Column10": "14 pulgadas",
-     "Column12": "micro atx"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Juego de mesa Monopoly Super Mario",
-     "Descripcion": "Descripcion: Esta version del Monopoly mantiene la escencia del juego pero con personajes de Super Mario. Sin duda un regalo ideal para los pequeñines. ",
-     "Imagen": ".\/regalos\/15.jpg",
-     "Column9": "Otros",
-     "Column10": "Mas de 15 pulgadas",
-     "Column12": "atx"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "20000",
-     "Respuesta": "Asus Zen AiO 24",
-     "Descripcion": "ASUS Zen AiO 24 es una PC hermosa, funcional y poderosa en un paquete seductor. Esta central electrica todo en uno exquisitamente diseniada combina un alto rendimiento con una estética elegante, lo que la hace perfecta para el uso del estudiante.",
-     "Imagen": ".\/regalos\/20.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Deportes",
-     "Respuesta": "Pogo Stick- Palo saltador",
-     "Descripcion": "Descripccion: Ideal para que jueguen, salten y saquen toda su energia",
-     "Imagen": ".\/regalos\/16.jpg",
-     "Column9": "Nada de acenttos o Ñ"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Artes",
-     "Respuesta": "Taza para decorar set de FROZEN II",
-     "Descripcion": "Descripcion: es un doble regalo, las horas entretenidas pintando y luego le queda una taza decorada a su gusto. Este set viene con todos los materiales e instrucciones a un buen precio",
-     "Imagen": ".\/regalos\/17.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Globo Educativo, PlayShifu Shifu Orboot",
-     "Descripcion": "Descripcion: A medida que las niñas sostienen su dispositivo ante el globo, pueden acceder a una enorme gama de información que mejora sus habilidades tecnológicas y fomenta el uso positivo de la tecnología",
-     "Imagen": ".\/regalos\/18.jpg"
-    },
-    {
-     "Edad": "Menor de 10 años",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "20000",
-     "Respuesta": "HP ‎27-dp0160 Touchscreen All-in-One Desktop Computer",
-     "Descripcion": "Esta computadora de escritorio todo en uno, ofrece un procesador AMD Ryzen 5 4500U de 2.3 GHz de velocidad, cuenta con una meoria RAM de 16 GB, un almacenamiento en estado sólido (SSD) de 512 GB, por lo que con estas características podrás hacer todas las tareas que gustes y no tendras que preocuparte por la cantidad de aplicaciones abiertas. Además, este equipo cuenta con el sistema operativo Windows 10 Home, y con  una pantalla de 27 pulgadas, también el equipo es de color plata.\n",
-     "Imagen": ".\/regalos\/24.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Deportes",
-     "Respuesta": "Un balón de futbol de la marca Molten Forza",
-     "Descripcion": "Descripcion: especial para poder jugar en las canchas o en el pasto, de material resistente.",
-     "Imagen": ".\/regalos\/22.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Artes",
-     "Respuesta": "Puzzle 3d de Notre Dame 324 piezas Ravensburger",
-     "Descripcion": "Descripcion: ideal para fomentar o iniciar con el interes hacia la creacion de estructuras solidas conocidas como arte arquitectonico",
-     "Imagen": ".\/regalos\/29.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Video juegos",
-     "Respuesta": " Nintendo Switch Lite",
-     "Descripcion": "Descripcion: ofrece la posibilidad de jugar sobre la marcha. Aunque a menudo pensamos que jugar a los videojuegos es un juego justo, en realidad también ofrecen muchos beneficios de aprendizaje",
-     "Imagen": ".\/regalos\/30.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "20000",
-     "Respuesta": "Laptop Lenovo ThinkPad L13 13\"- Intel i7",
-     "Descripcion": "La laptop Lenovo ThinkPad L13 tiene una pantalla HD de 13\", ofrece un procesador Intel Core i7-1165G7 con una frecuencia base 2.80GHz, cuenta con una memoria RAM de 8GB y cuenta con un almacenamiento en estado sólido (SSD) de 256GB, con estas características podrás realizar cualquier tipo de actividades en el trabajo. Además, este equipo cuentas con el sistema operativo Windows 10 Pro de 64-bit, es de color negro y con su diseño delgado hacen a este equipo el indicado.",
-     "Imagen": ".\/regalos\/28.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Deportes",
-     "Respuesta": "Bolsa Mediana Adidas Defender III",
-     "Descripcion": "Descripcion: El bolso mediano de Adidas Defender III está disponible en una gama de colores, así que puedes elegir uno basado en su color favorito o en su estilo personal. Este bolso, de la popular marca deportiva Adidas, está hecho con materiales duraderos y tiene una forma estructurada, por lo que está hecho para durar.",
-     "Imagen": ".\/regalos\/31.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Artes",
-     "Respuesta": "Sphero Specdrums 2",
-     "Descripcion": "Descripcion: este producto integra la musica y la tecnologia tocando colores para crear sonidos, bucles y ritmos",
-     "Imagen": ".\/regalos\/32.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Ratón Gaming con cable Logitech G502 Hero",
-     "Descripcion": "Descripcion: Con 11 botones programables, el G502 HERO es ideal para mejorar la experiencia de juego. Cuenta con un seguimiento preciso, una rueda de desplazamiento hiperrápida y una respuesta rápida a los clics para que el jugador  pueda concentrarse en el juego en sí y no se vea frenado por un equipo anticuado",
-     "Imagen": ".\/regalos\/33.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "20000",
-     "Respuesta": "Canasta de Baloncesto con soporte Hudora All Stars",
-     "Descripcion": "Descripcion: El baloncesto y otros deportes similares ayudan a desarrollar una coordinación completa, pero específicamente la coordinación ojo-mano que mejora las habilidades de escritura",
-     "Imagen": ".\/regalos\/34.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Deportes",
-     "Respuesta": "Canasta de Baloncesto con soporte Hudora All Stars",
-     "Descripcion": "Descripcion: El baloncesto y otros deportes similares ayudan a desarrollar una coordinación completa, pero específicamente la coordinación ojo-mano que mejora las habilidades de escritura",
-     "Imagen": ".\/regalos\/34.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Artes",
-     "Respuesta": "Sistema de juego DropMix de Hasbro",
-     "Descripcion": "Descripcion: Se incluyen 60 tarjetas con música de artistas populares, como Childish Gambino, Disturbed e Imagine Dragons, y la aplicación móvil gratuita controla el juego. Es una forma estupenda de que los amigos y la familia pasen tiempo juntos en torno al interés por la música y podría introducir a un chico  en el mundo del DJ y la tecnología musical. También es perfecto para fiestas y eventos familiares",
-     "Imagen": ".\/regalos\/35.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Se trata de un producto con licencia oficial de Xbox",
-     "Descripcion": "calidad está garantizada, y es una forma estupenda de añadir algo de personalidad a la habitación. Es una forma fantástica de comprar un regalo relacionado con los intereses de un adolescente si no estás seguro de qué juegos o accesorios tiene ya",
-     "Imagen": ".\/regalos\/36.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "20000",
-     "Respuesta": "Laptop Dell Inspiron G5 5520 15.6\"",
-     "Descripcion": "Laptop Dell Inspiron G5 5520 15.6\" Full HD, Intel Core i7-12700H 3.50GHz, 16GB, 512GB SSD, NVIDIA GeForce RTX 3060, Windows 11 Home 64-bit, Español, Negro",
-     "Imagen": ".\/regalos\/36.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Deportes",
-     "Respuesta": "Smartwatch FitBit Versa 3",
-     "Descripcion": "Descripcion: El Fitbit Versa 3 fomenta la salud física con características como un podómetro y un GPS incorporado para rastrear la actividad. También cuenta con un asistente de voz para poder utilizarlo con las manos libres y la capacidad de almacenar y reproducir música, lo que lo hace perfecto para una chica activa",
-     "Imagen": ".\/regalos\/37.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Artes",
-     "Respuesta": "kit de arte de dibujo de lujo para suministros de arte",
-     "Descripcion": "Descripcion: ideal para niños, niñas, de la marca Vigorfun, con una cantidad de 83 unidades, contiene una paleta con 6 compartimientos y 5 pinceles.",
-     "Imagen": ".\/regalos\/38.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Mouse Logitech G502 Hero Gaming en color rosado",
-     "Descripcion": "Descripcion: Dado que ha sido diseñado especialmente para su uso con juegos de ordenador, es increíblemente funcional y el sistema de resortes metálicos integrados en los botones izquierdo y derecho del ratón proporcionan una sensación de clic nítido y rápido. Es compatible con una serie de sistemas operativos y se puede personalizar para adaptarlo a los jugadores",
-     "Imagen": ".\/regalos\/39.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "20000",
-     "Respuesta": "Rasreador de actividad y Fitness Fitbit Alta HR",
-     "Descripcion": " Descripcion: Puedes hacer un seguimiento de los pasos, la distancia, las calorías quemadas, los minutos de actividad por hora y el tiempo de inactividad, así como de la calidad del sueño. La batería dura hasta siete días, por lo que no hay que preocuparse de cargarla con frecuencia",
-     "Imagen": ".\/regalos\/40.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Deportes",
-     "Respuesta": "No hay respuesta",
-     "Descripcion": "No hay descripcion",
-     "Imagen": ".\/regalos\/41.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Artes",
-     "Respuesta": "No hay respuesta",
-     "Descripcion": "No hay descripcion",
-     "Imagen": ".\/regalos\/42.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Dell Inspiron 5400 AIO PC",
-     "Descripcion": "Este ordenador garantiza un gran nivel trabajar o navegar por la Web con facilidad gracias a sus 8GB de RAM y con sus discos de estado solido y disco duron aseguran la que el trabajo en ella sea de manera eficaz. Este ordenador cuenta con Windows 10.\n\n",
-     "Imagen": ".\/regalos\/43.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "20000",
-     "Respuesta": "HP Desktop One 27-ca0003la, AMD Ryzen 5, AMD Radeon, 8GB RAM, 256GB SSD + SATA 1TB HDD, FHD 27\", Windows 11 Home, Blanco",
-     "Descripcion": "Es una excelente maquina para trabajar además de que es una marca muy reconocida y muy buena, excelente en relación calidad precio",
-     "Imagen": ".\/regalos\/44.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Deportes",
-     "Respuesta": "HP All in One 200 G4 Intel Pentium Silver J5040 4GB 1TB 21.5\" Windows 10 Home",
-     "Descripcion": "Diseño profesional y elegante: Además de ser asequible, la PC Todo-en-Uno HP 200 22, que está equipada con nuestra más reciente y elegante pantalla triple de microborde, deja espacio libre en su escritorio. Diseñada para una rápida implementación, solo tiene que desembalarla, ubicarla, conectarla y ponerse a trabajar. El diseño comercial sencillo de la asequible PC Todo-en-uno HP 200 22 luce genial en su espacio de trabajo. Los potentes procesadores Intel 2 le permiten realizar las tareas diarias de manera rápida, y la pantalla de 21,5\" en diagonal ofrece suficiente especio para trabajar junto a sus colegas.",
-     "Imagen": ".\/regalos\/45.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Artes",
-     "Respuesta": "kit de arte de dibujo de lujo para suministros de arte",
-     "Descripcion": "ideal para niños, niñas, de la marca Vigorfun, con una cantidad de 83 unidades, contiene una paleta con 6 compartimientos y 5 pinceles",
-     "Imagen": ".\/regalos\/38.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Video juegos",
-     "Imagen": ".\/regalos\/47.jpg"
-    },
-    {
-     "Edad": "Entre 13 y 19 años",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "20000",
-     "Respuesta": "HP Pavilion PC",
-     "Imagen": ".\/regalos\/48.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Deportes",
-     "Respuesta": "Laptop Asus VivoBook 2-en-1",
-     "Descripcion": "La laptop Asus VivoBook 2-en-1 ofrece un procesador Intel Core i3-10110U de 2.1 GHz de velocidad, una memoria RAM de 4GB y cuenta con un almacenamiento en estado sólido (SSD) de 128GB, con esto podrás ejecutar algunos juegos básicos. Tambien cuenta con el sistema operativo windows 10, y el diseño delgado y de color gris hacen a este equipo ideal.",
-     "Imagen": ".\/regalos\/49.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Artes",
-     "Respuesta": "Laptop HP 14-ek0033dx",
-     "Descripcion": "La laptop HP ofrece un procesador Inter Core I5, una memoria RAM de 8 GB, un almacenamiento en estado solido (SSD) de 512 GB y cuenta con gráficos Intel Iris, con todo lo anterior podrás ejecutar una variedad de juegos populares. Además, el portátil cuenta con pantalla táctil, cuenta con el sistema operativo actualizado, es decir, Windows 11 y es de color plata natural, haciendo que este equipo sea elegante por su diseño delgado.",
-     "Imagen": ".\/regalos\/50.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Asus ZenBook 13\" UX325EA-I5OLEDEVOW",
-     "Descripcion": "La Laptop Asus ZenBook ofrece un procesador Intel Core i5 de 4 núcleos con una velocidad de 4 GHz, tiene gráficos Intel Iris xe incluidos, ofrece una memoria RAM de 8GB, un almacenamiento en estado solido (SSD) de 512 GB, con todo lo anterior mencionado podrás ejecutar una gran variedad de juegos en una calidad buena. Este portátil tiene una pantalla OLED de 13\", tiene NumberPad, igual tiene el sistema operativo Windows 11 y además viene con una funda incluida, por lo que este equipo de color plata hace que sea el indicado para lo que buscas.",
-     "Imagen": ".\/regalos\/51.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "20000",
-     "Respuesta": "Asus ASUSROG Flow X13",
-     "Descripcion": "La laptop Asus ASUSROG Flow X13 ofrece un potente procesador Ryzen 9 5980HS el cual podrá acelerar nuestros trabajos y ejecutar los ultimos juegos del mercado que combinado con una tarjeta gráfica NVIDIA GTX 1650 hacen a este equipo el indicado para correr juegos de forma rápida y fluida. Cuenta con una memoria RAM de 16GB y con un almacenamiento de disco duro en estado sólido (SDD) de 1TB permitiendo así tener varios juegos instalados . Este equipo cuenta con una pantalla de 13.4\", y su pantalla es touch. Tiene el sistema operativo Windows 10 y el portátil es de color negro.",
-     "Imagen": ".\/regalos\/52.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Deportes",
-     "Respuesta": "Laptop  HP 5C6G5LT",
-     "Descripcion": "Esta Laptop HP ofrece un procesador Ryzen 5 5500U con una memoria RAM de 8 GB, un almacenamiento en estado solido (SSD) de 256GB. Tiene una pantalla de 14\", tiene el sistema operativo Windows 10 y el equipo es de color negro. Podrás ejecutar algunos juegos no tan pesados en cuanto a los gráficos. Gracias a su diseño delgado y ligero, hacen a este equipo ideal para ti.",
-     "Imagen": ".\/regalos\/53.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Artes",
-     "Respuesta": "Laptop Acer Swift 3",
-     "Descripcion": "La Laptop Acer Swift 3 ofrece un procesador Intel Core i7-1165G7 Intel Evo Thin &amp; Light, unos gráficos Intel Iris Xe Graphics, ofrece una memoria RAM de 8GBy un almacenamiento en estado solido (SSD) de 256GB, con todo lo anterior, podrás ejecutar varios juegos con una calidad alta . Además cuenta con Wi-Fi 6, con lector de huellas dactilares y con el sistema operativo Windows 10. Por ultimo, este portátil tiene una pantalla de 14 \" Full HD, cuenta con un teclado retroilumnidado y es de color plateado, por lo que esta laptop es de un diseño elegante.",
-     "Imagen": ".\/regalos\/54.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Laptop Gamer XPG Xenia 14",
-     "Descripcion": "La Laptop Gamer XPG Xenia 14 ofrece un procesador Intel Core i7-1165G7 de 2.80GHz de velocidad con gráficos Intel Iris Xe Graphics, ofrece una memoria RAM de 16GB, un almacenamiento en estado sólido (SSD) de 512GB, por lo que gracias a estos componentes, podrás ejecutar una gran variedad de juegos sin ningún problema. Este portátil tiene el sistema operativo Windows 10 Home de 64-bit, es de color negro y su pantalla es Full HD de 14 pulgadas, haciendo que este equipo sea el indicado para ti.",
-     "Imagen": ".\/regalos\/55.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "20000",
-     "Respuesta": "ASUS ROG Zephyrus G14",
-     "Descripcion": "La laptop ASUS ROG Zephyrus G14 ofrece un procesador AMD Ryzen 7 4800HS de 8 núcleos de 2.9 GHz (hasta 4.2 GHz), cuenta con una memoria RAM de 16 GB, un almacenamiento en estado sólido de 1 TB y con gráficos NVIDIA GeForce GTX 1650, con todo lo antes mencionado, este equipo es el ideal para que puedas jugar tus juegos favoritos y los actuales del mercado. También, ofrece una pantalla Full HD de 14 pulgadas y un teclado con retroiluminación. Además, tiene el sistema operativo Windows 10 y el portátil es de color gris.",
-     "Imagen": ".\/regalos\/56.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Deportes",
-     "Respuesta": "Gateway Laptop GWNR71517-BL Ultra Slim",
-     "Descripcion": "La laptop Gateway GWNR71517 ofrece un procesador AMD Ryzen 7 3700U con gráficos Radeon RX Vega incluidos, cuenta con una memoria RAM de 8 GB, y un almacenamiento en estado solido (SSD) de 512 GB, con esto podrás ejecutar algunos juegos que no requieran mucho rendimiento. También, tiene el sistema operativo Windows 10, cuenta con una pantalla de 15.6 pulgadas y el portátil es de color gris.",
-     "Imagen": ".\/regalos\/57.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Artes",
-     "Respuesta": "MSI GF63 Thin 9SCX-005 ",
-     "Descripcion": "La Laptop MSI GF63 Thin 9SCX-005 tiene una pantalla 15.6 pulgadas Full HD, ofrece un procesador Intel Core i5-9300H con una tarjeta gráfica NVIDIA GeForce GTX 1650, cuenta con una memoria RAM de 8GB, un almacenamiento en estado sólido (SSD) de 256GB, así con todas estas características mencionadas podrás ejecutar una gran variedad de juegos. Este portátil de color negro incluye luces en el teclado, por lo que junto con el sistema operativo Windows 10, hacen que este equipo sea el indicado para lo que buscas. ",
-     "Imagen": ".\/regalos\/58.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Video juegos",
-     "Respuesta": "HP Victus 15 B0BJYZDHVK",
-     "Descripcion": "La Laptop HP Victus 15 Premium Gaming ofrece un procesador de la 12 generación: Intel Core i5 12500H de 12 núcleos con una velocidad de hasta 4.50 GHz con una tarjeta gráfica NVIDIA GeForce RTX 3050, ofrece una memoria RAM de 20 GB, un almacenamiento de disco duro en estado sólido (SSD) de 1 TB, por lo que con este equipo podrás ejecutar y almacenar una gran variedad de juegos sin ningún problema ya que te permite experimentar gráficos de alta calidad y potencia de procesamiento que satisface tus necesidades de juego y multitarea. Además, este portátil tiene el teclado retroiluminado, igual tiene instalado el sistema operativo más actualizado, es decir, el Windows 11 Home, haciendo que este equipo sea el indicado para lo que buscas.",
-     "Imagen": ".\/regalos\/59.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "20000",
-     "Respuesta": "Asus ROG Strix Scar 15 Gaming",
-     "Descripcion": "La laptop Asus ROG Strix Scar 15 es el equipo perfecto para el usuario Gaming, ya que ofrece un potente procesador Intel Core i9 12900H de 14 núcleos con una velocidad de hasta 5.0 GHz; también ofrece una memoria RAM de 16 GB, un almacenamiento de disco de disco duro en estado solido (SSD) de 1 TB y con una tarjeta gráfica NVIDIA GeForce RTX 3070, con todo lo anterior mencionado, no puedes poner excusas para no jugar los ultimos videojuegos del mercado ya que es el equipo perfecto para llevar a cabo esa actividad. Además, cuenta con una pantalla Full HD de 15.6 pulgadas, un teclado RGB por cada tecla, con una barra de luz RGB y el portátil tiene la apariencia exterior de color negro, haciendo así que el equipo tenga una excelente estética; y tiene el sistema operativo más utilizado y actualizado, el Windows 11 Home",
-     "Imagen": ".\/regalos\/60.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Deportes",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-30055",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-30055 ofrece un potente procesador AMD Ryzen 5 PRO 4650G de 3.70GHz con graficos Radeon Graphics incluidos , una memoria RAM de 8GB, un almacenamiento solido (SSD) de 240GB, con adapatador WiFi, con el sistema operativo Windows 10 Prueba, y el gabinete pequeño y de color blanco hace que sea adecuado para posicionarlo en cualquier sitio. *Monitor, teclado y mouse no incluidos.",
-     "Imagen": ".\/regalos\/61.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Artes",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-07361",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-07361 ofrece un procesador AMD Ryzen 5 5600G de 6 núcleos con 3.90GHz de velocidad y con gráficos AMD Radeon Graphics incluidos. Cuenta con una memoria RAM de 16GB, con un almacenamiento de disco duro (HDD) de 3TB más 240GB en estado sólido (SSD) así con esta capacidad podrás almacenar diversos juegos. Además, cuenta con el sistema operativo Windows 10 Prueba y con su gabinete con luces RGB hacen a este equipo ideal. Tambien incluye un Monitor de 27\", teclado y mouse",
-     "Imagen": ".\/regalos\/62.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-50092",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-50092 ofrece un procesador AMD Ryzen 5 5600X de 6 núcleos con 3.70GHz de velocidad, una memoria RAM de 16GB, un almacenamiento de disco duro (HDD) de 2TB más 240GB en estado sólido (SSD); además tiene una tajreta gráfica AMD Radeon RX 6500 XT y con todo lo anterior mencionado, tienes el equipo perfecto para poder correr los juegos más populares y con la capacidad de almacenamiento que tiene podrás tener varios juegos instalados sin la necesidad de preocuparte. Por último, incluye Windows 10 Prueba, un monitor de 23.8\", un teclado y  un mouse.",
-     "Imagen": ".\/regalos\/63.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "20000",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-50241",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-50241 ofrece un procesador Intel Core i5-10400F de 6 núcleos con 2.90GHz de velocidad base. Ofrece una memoria RAM de 16GB, un almacenamiento de disco duro (HDD) de 3TB más 240GB en estado sólido (SSD), también tiene una tarjeta gráfica NVIDIA GeForce GTX 1660 SUPER, con todo lo anterior mencionado podrás ejecutar una gran diversidad de juegos populares de la actualidad. Tambien incluye el sistema operativo Windows 10 Prueba, un monitor de 23.6\", teclado y mouse.",
-     "Imagen": ".\/regalos\/64.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Deportes",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-99904",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-99904 ofrece un procesador Intel Core i5-10400 de 6 núcleos con 2.90GHz de velocidad y 4.3 GHz velocidad turbo. Cuenta con una memoria RAM de 8GB, un almacenamiento de disco duro (HDD) de 1TB, tiene el sistema operativo Windows 10 Prueba, a pesar de no tener una tarjeta gráfica, podrás ejecutar algunos juegos livianos y con el gabinete con luces rojas te hará sentir la escencia de tener un equipo gaming. También, incluye Monitor de 21.5”, teclado y mouse.",
-     "Imagen": ".\/regalos\/65.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Artes",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-50082",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-50082 ofrece un procesador Intel Core i7-9700 de 8 núcleos con 3GHz de velocidad y 4.70GHz velocidad turbo. Cuenta con una memoria RAM de 16GB, con un almacenamiento de disco de 3TB más 240GB en estado solido (SSD), tiene el sistema operativo Windows 10 Prueba, y el gabinete es de color rosa y ademas viene incluido un kit de teclado y mouse.  *Monitor no incluido.",
-     "Imagen": ".\/regalos\/66.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-30023",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-30023 ofrece un procesador Intel Core i5-10400F de 6 núcleos con 2.90GHz de velocidad y 4.30 GHz velocidad turbo e igual ofece una tarjeta gráfica NVIDIA GeForce GTX 1660 Super, permitiendo así que puedas ejecutar juegos con los gráficos altos. Cuenta con una memoria RAM de 16GB, un almacenamiento en estado sólido (SDD) de 480GB. Cuenta con Windows 10 Prueba e incluye monitor de 23.8\"; y con el gabinete, teclado y mouse con luces RGB hacen a este equipo perfecto para ti.",
-     "Imagen": ".\/regalos\/67.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "20000",
-     "Respuesta": "Computadora Gamer Grizzly SG-IC004",
-     "Descripcion": "La Computadora Gamer Grizzly SG-IC004 ofrece un procesador Intel Core i5-10400F de 6 núcleos con 2.90GHz de velocidad y 4.30 GHz velocidad turbo, también tiene una tarjeta gráfica NVIDIA GeForce RTX 3060, para que así puedas ejecutar tus juegos favoritos. Cuenta con una memoria RAM de 16GB, un almacenamiento de disco duro (HDD) de 2TB más 512GB de estado sólido (SSD). También tiene el sistema operativo Windows 10 Prueba, incluye un monitor de 27\", teclado y mouse, y algo adicional es que tiene luces RGB en el gabinete y en los perifericos (teclado y mouse).",
-     "Imagen": ".\/regalos\/68.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Deportes",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-50140",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-50140 ofrece un buen procesador AMD Ryzen 5 PRO 4650G de 6 núcleos con 3.70GHz de velocidad y 4.2 GHz de velocidad turbo. También cuenta con una memoria RAM de 8GB y con un almacenamiento de disco duro en estado sólido(SSD) de 240GB. Este equipo cuenta con luces RGB en su gabinete, teclado y mouse, e igual tiene el sistema operativo Windows 10 Prueba y un monitor de 23.8\", por lo que este equipo es el indicado para el Hobbie indicado.",
-     "Imagen": ".\/regalos\/69.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Artes",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-61016",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-61016 ofrece un procesador AMD Ryzen 7 PRO 4750G de 8 núcleos con 3.60GHz de velocidad y 4.4 GHz de velocidad turbo. Cuenta con una memoria RAM de 16GB, un almacenamiento de disco duro en estado sólido (SSD) de 480GB y gráficos AMD Radeon 8 Renoir, con esto permite que puedas ejecutar varios juegos con una calidad buena y así puedas disfrutar jugar. También tiene el sistema operativo Windows 10 Prueba e incluye un monitor de 23.8\" y audífonos. Por último, incluye un teclado y mouse con luces RGB al igual que el gabinete.",
-     "Imagen": ".\/regalos\/70.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming CM-54116",
-     "Descripcion": "La Computadora Gamer Xtreme PC Gaming CM-54116 ofrece un potente procesador Intel Core i5-10400F de 6 núcleos con 2.90GHz de velocidad y 4.30 GHz de velocidad turbo, y cuenta con una tarjeta gráfica NVIDIA GeForce GTX. Cuenta con una memoria RAM de 16GB, un almacenamiento de disco duro en estado solido (SSD) 500GB. Con lo anterior mencionado podrás ejecutar una diversidad de juegos sin la necesidad de preocuparte por los gráficos y con el gabinete con luces RGB hacen a este equipo ideal para ti. Además incluye el sistema operativo Windows 10 Prueba, un monitor de 27\", teclado y mouse.",
-     "Imagen": ".\/regalos\/71.jpg"
-    },
-    {
-     "Edad": "Juego",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "20000",
-     "Respuesta": "Computadora Gamer Xtreme PC Gaming XTCOR516GB5700XTM",
-     "Descripcion": "Esta computadora Xtreme PC Gamer ofrece un procesador AMD Ryzen 5 5600X de 6 nucleos con 3.70GHz de velocidad, cuenta con graficos AMD Radeon RX 5700 XT, cuenta con una memoria RAM de 16GB, con un almacenamiento de disco duro (HDD) de 3TB y con un disco en estado solido (SSD) de 500GB. Tiene el sistema operativo mas utilizado, es decir, el Windows 10 Trial, su gabinete de color negro y sus luces RGB hacen a este equipo perfecto. Tambien incluye un monitor Full HD de 27 pulgadas, teclado y mouse.",
-     "Imagen": ".\/regalos\/72.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Deportes",
-     "Imagen": ".\/regalos\/73.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Artes",
-     "Imagen": ".\/regalos\/74.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Video juegos",
-     "Imagen": ".\/regalos\/75.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "20000",
-     "Imagen": ".\/regalos\/76.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Deportes",
-     "Respuesta": "Laptop Acer Aspire 3",
-     "Descripcion": "La pantalla Acer ComfyView LCD con retroiluminacion LED de 14 pulgadas con resolucion HD de 1366 x 768p, te brindara nuevas posibilidades de visualizacion de nitidez y detalles extraordinarios ideales para la edicion. Dispone de la efectividad de su bateria Ion-Litio de 36.7 Wh, para generar hasta 8 horas de funcionamiento continuo. Desde su memoria RAM de 8GB hasta su capacidad de 1 TB de almacenamiento adquiere la comodidad que buscabas. ",
-     "Imagen": ".\/regalos\/77.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Artes",
-     "Respuesta": "Laptop Huawei Matebook D14 Core i5 8GB 512GB SSD",
-     "Descripcion": "El diseno integrado para el boton de encendido y el sensor tactil de huellas dactilares le permite iniciar sesion en su MateBook D 14 de forma facil y segura con un solo toque.Camara de 1 MP para una nueva experiencia de videollamada.Teclado retroiluminado de Evento",
-     "Imagen": ".\/regalos\/78.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Laptop Lenovo ThinkPad E14 G2 14\" Full HD, AMD Ryzen 5 Pro 4650U 2.10GHz, 8GB, 256GB SSD, Windows 10 Pro 64-bit, Español, Negro",
-     "Descripcion": "La pantalla Lenovo con retroiluminacion LED de 14 pulgadas con resolucion HD de 1366 x 768p, te brindara nuevas posibilidades de visualizacion de nitidez y detalles extraordinarios ideales para la edicion. Dispone de la efectividad de su bateria Ion-Litio de 53,4 Wh, para generar hasta 10 horas de funcionamiento continuo. Desde su memoria RAM de 8GB hasta su capacidad de 256 GB de almacenamiento adquiere la comodidad que buscabas. ",
-     "Imagen": ".\/regalos\/79.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Graduacion",
-     "Hobbie": "20000",
-     "Respuesta": "Laptop Lenovo Yoga 7i (14\", Intel)",
-     "Descripcion": "Procesadores Premier Intel® Core ™ de 11era generación\nPantalla FHD de 14 pulgadas con gráficos Intel® Iris® Xe y cámara HD de 720p\nCombinación perfecta de la plataforma Intel® Evo™ en cuanto a capacidad de respuesta, batería de larga duración y efectos visuales asombrosos\nLas características de seguridad adicionales incluyen tapa física de la cámara web y el lector de huellas digitales",
-     "Imagen": ".\/regalos\/80.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Deportes",
-     "Respuesta": "Laptop Asus VivoBook 15",
-     "Descripcion": "Optimiza cada actividad con ayuda de su procesador Intel Pentium Gold 7505 y gracias a su memoria RAM de 8 GB lograras mejoras sustanciales al momento de ejecutar distintos programas de exigencia superior. Con una capacidad de 256 GB en su unidad de estado solido SSD para preservar una gran cantidad de archivos multimedia al instante.",
-     "Imagen": ".\/regalos\/81.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Artes",
-     "Respuesta": "Laptop Dell Inspiron 3515 15.6\" Full HD, AMD Ryzen 3 3250U 2.60GHz, 8GB, 256GB SSD, Windows 11 Home 64-bit, Español, Plata",
-     "Descripcion": "Laptop Dell Inspiron optimizada para la edicion de videos con una pantalla de 15,6 pulgadas procesador Ryzen 3 para una velocidad de procesamiento inimaginada, 8gb de RAM y 256 GB de almacenamiento de estado solido",
-     "Imagen": ".\/regalos\/82.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Laptop Gamer MSI GF63 Thin 15.6\" Full HD, Intel Core i5-10300H 2.50GHz, 8GB, 256GB SSD, NVIDIA GeForce GTX 1650 Max-Q, Windows 10 Home, Inglés, Negro",
-     "Descripcion": "MSI optimizada para edicion de video en la cual podemos optener fluidez a la hora de editar y renderizar los videos que queramos. Junto con el procesador Intel Core i5 de 2,5 GHz logramos lo anterior. Contiene una tarjeta de video NVIDIA GeForce para el tratado de video de la maquina.",
-     "Imagen": ".\/regalos\/83.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Masculino",
-     "Evento": "Otros",
-     "Hobbie": "20000",
-     "Respuesta": "Electronics Laptop Lenovo ThinkPad E15 G2 15.6\" Full HD, Intel Core i7-1165G7, Iris Xe Graphics, 16GB, 512GB SSD, Windows 11 Pro, Negro,",
-     "Descripcion": "La ThinkPad E15 de 2da Gen llévatela a cualquier parte, es liviana y fácil de llevar, este dispositivo encaja perfectamente donde quieras llevarlo. Además, las cubiertas superior e inferior de aluminio anodizado le dan un aspecto y una sensación elegantes. Incluye procesadores hasta Intel Core i7-1165G7 11ᵃ Generación, con lo que consigues un mayor rendimiento para las tareas en el trabajo. Este dispositivo, respaldado por una memoria DDR4 de hasta 16 GB. La E15 de 2da generación se ha probado con 12 especificaciones de nivel militar y se ha sometido a más de 200 pruebas de calidad. Puedes confiar en estas PCs para todo aquello que la vida ponga en tu camino, ya sea la aridez ártica, las tormentas de arena del desierto y la gravedad cero, o derrames y caídas. INCLUYE SOPORTE METÁLICO. Diseño que te permite la ventilación de aire natural para mantener tu computadora portátil fresca y funcionar a alta velocidad. Ergonomía y portabilidad para llevarlo a cualquier sitio.",
-     "Imagen": ".\/regalos\/84.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Deportes",
-     "Respuesta": "SUPERGAMER Pc De Femenino Intel J4125 2.0 GHz Ram 8Gb HDD 1Tb Monitor 21.5 Kit 2 En 1 Int-I003",
-     "Descripcion": "De la marca SUPERGAMER nos ofrece una experiencia para la edicion de videos, con un precio economico y componentes de calidad como son el procesador Intel J4125 de 2,0 GHz, 8 GB de RAM para velocidades considerables.",
-     "Imagen": ".\/regalos\/85.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Artes",
-     "Respuesta": "Huawei MateStation S- PC Femenino, Procesador AMD Ryzen 5 4600G, 8GB RAM+ 256GB SSD, Win Home, Color Gris Espacial",
-     "Descripcion": "HUAWEI MateStation S Gigante interior, genio exterior. -Factor de forma pequeño. -Procesador AMD Ryzen 5 4600G -Niveles de ruido propicios para dormir. Forja un nuevo sendero: Cuanto más pequeña sea la caja, mejor será la sorpresa en el interior. con un elegante diseño de rastro de estrellas, la HUAWEI MateStation S tiene el aspecto que la hace destacar, mientras que su tamaño delgado y compacto asegura que no sobresaldrá: con solo 93 mm de ancho y 293 mm de alto, encajará como tu libro de mesa de café favorito. Procesamiento Blue-chip: la forma poderosa de realizar tareas. El procesador AMD Ryzen 5 4600G con Los gráficos Radeon funcionan rápido, sin importar lo que esté haciendo. Datos en la vía rápida: Almacene más datos, más rápido con SSD de alta velocidad de 256 GB.",
-     "Imagen": ".\/regalos\/86.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "Video juegos",
-     "Respuesta": "SUPERTIENDA PC Gamer I3 10100 16GB 2TB Nvidia 710 LED 24” con WiFi",
-     "Descripcion": "SUPER TIENDA Presenta Equipo Gamer con los siguientes componentes Procesador I3 10100 memoria RAM de 16Gb 2Tb de almacenamiento tarjeta de video 710 de 2Gb GDDR5, fuente de poder de 500W, gabinete, monitor LED de 24” pulgadas y adaptador Wifi tipo USB. La Garantía del Equipo es de 1 Año contra Defectos de fabricación en Hardware y no aplica en Software. Para Poder validar la garantía es necesario presentar en buen estado el hardware, así como nota de compra. Todas las PC son entregadas Sistema operativo: Windows 10 de prueba.",
-     "Imagen": ".\/regalos\/87.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Cumpleaños",
-     "Hobbie": "20000",
-     "Respuesta": "MSECORE Mini PC de escritorio, computadora con i9-9900, 64G DDR4 RAM 1T NVME SSD, gráficos dedicados P1000 para diseño gráfico, edición de video, modelado (16G+512G T600)",
-     "Descripcion": "Viene con tarjeta gráfica profesional: la computadora está equipada con procesador de 9ª generación i9-9900T 8 núcleos de hasta 4.4 GHz, gráficos dedicados P1000 4G, 32 G DDR4 RAM 1T NVME SSD. Preinstalado con Win11 Pro. Este PC está diseñado para trabajos profesionales como arquitectura gráfica 3D, edición de fotos y videos. Puedes obtener una mejor experiencia de diseño con la tarjeta gráfica profesional, aumentar tu productividad.",
-     "Imagen": ".\/regalos\/88.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Deportes",
-     "Respuesta": "Xtreme PC Gamer AMD Radeon Vega Renoir Ryzen 5 5600G 16GB SSD 120GB 2TB WiFi Black",
-     "Descripcion": "Gráficos AMD Radeon Graphics con frecuencia de 1900 MHz y 7 núcleos lo que proporciona un rendimiento rápido, sin interrupciones y fluido en los juegos que te apasionan, más potente de lo que crees.  AMD Ryzen 5 5600G con 6 núcleos y 12 hilos 3.9 GHz de velocidad y 4.4 velocidad turbo con 16MB L3 en Cache.",
-     "Imagen": ".\/regalos\/89.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Artes",
-     "Respuesta": "Xtreme PC Computadora Intel Core I5 8GB 1TB WiFi RGB",
-     "Descripcion": "Gráficos Intel UHD 630 frecuencia base de gráficos 350MHz, frecuencia dinámica máxima de graficas 1.05GHz lo que proporciona un rendimiento rápido, sin interrupciones.\nIntel Core i5-9400 con 6 núcleos y 6 hilos 2.90 GHz de velocidad y 4.10GHz velocidad turbo con 9MB Intel Smart Cache.",
-     "Imagen": ".\/regalos\/90.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Supermex Pc Gamer Gtizzly Intel Core I5 10400 4.30Ghz B560 Ram 16Gb Ssd 480Gb 550W 80, WiFi Tplink, PGGI5SGIC049",
-     "Descripcion": "Con la nueva PC Super Gamer deja atras a tus rivales, con una mayor velocidad seras el ganador.Con los graficos integradosUhd Intel tendras una mejor vision del juego\nEl Adaptador TL-WN781ND de TP-LINK está diseñado para proporcionar un rendimiento inalámbrico completo de extremo a extremo",
-     "Imagen": ".\/regalos\/91.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Graduacion",
-     "Hobbie": "20000",
-     "Respuesta": "Dell Inspiron 24 Serie 5000 computadora con visualización táctil todo en uno | Intel Core i7-1165G7 de 11ª generación | 16GB RAM | 256GBSSD 1TBHDD | Gráficos NVIDIA MX330 | Teclado y mouse | Windows 10 Home (renovado)",
-     "Descripcion": "16 GB de RAM sustancial de alto ancho de banda para ejecutar sin problemas tus juegos y aplicaciones de edición de fotos y videos, así como múltiples programas y pestañas de navegador todo a la vez. Un SSD de 256 GB basado en flash no tiene partes móviles, lo que resulta en tiempos de arranque más rápidos y acceso a datos, sin ruido, y reduce la producción de calor y el consumo de energía en la batería. Un disco duro de 1 TB proporciona Otross cantidades de almacenamiento para copias de seguridad diarias.\nProcesador Intel Core i7-1165G7: la combinación perfecta de rendimiento, capacidad de respuesta y duración de la batería. Disfruta de un rendimiento que rompe los límites con el procesador Intel Core i7 de 11ª generación.",
-     "Imagen": ".\/regalos\/92.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Deportes",
-     "Respuesta": "All In One Lenovo 330-20ast 19 Hd Amd A6-9200 4gb 1tb W10",
-     "Descripcion": "Memoria\n\nMemoria interna: 4 GB\nTipo de memoria interna: DDR4-SDRAM\nRanuras de memoria: 1\nTipo de ranuras de memoria: SO-DIMM\n\nMedios de almacenaje\n\nCapacidad total de almacenaje: 1000 GB\nUnidad de almacenamiento : Unidad de disco duro\nNúmero de unidades de almacenamiento instaladas: 1\nCapacidad total de HDD: 1000 GB",
-     "Imagen": ".\/regalos\/93.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Artes",
-     "Respuesta": "PC Armada Graficos Radeon R7 3.8GHz 8GB 480GB XPERT COMPUTERS",
-     "Descripcion": "PROCESADOR Athlon 3000g a 3.5 GHz de cuatro núcleos con Gráficos integrados AMD Radeon R7\nDISCO DURO de estado sólido SSD de 480 GB\nGabinete Negro con fuente de poder de 500 W y buena ventilación\nMemoria RAM DDR4 de 16GB con velocidad máxima de 3200 MHz",
-     "Imagen": ".\/regalos\/94.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "Video juegos",
-     "Respuesta": "Xtreme PC Gamer AMD Radeon RX 570 Ryzen 5 3500 16GB SSD 480GB Monitor 144Hz WiFi",
-     "Descripcion": "MONITOR FULL HD 23.8” Visualiza tu victoria con el monitor gaming. Con resolución 1920x1080, frecuencia de actualización 144hz y tiempo de respuesta de 1ms con tecnologia FreeSync. Gráficos Radeon RX 570 4GB GDDR5, 2048 unidades, Reloj del motor (OC): hasta 1250MHz, Memory Bus 256 bit proporcionan un rendimiento rápido, sin interrupciones y fluido en los juegos que te apasionan.",
-     "Imagen": ".\/regalos\/95.jpg"
-    },
-    {
-     "Edad": "Edicion",
-     "Genero": "Femenino",
-     "Evento": "Otros",
-     "Hobbie": "20000",
-     "Respuesta": "HP Desktop One 24-ca0000la, Windows 11 Home, PC de Femenino, AMD Ryzen 5, AMD Radeon, 8GB RAM, SATA 1TB HDD, FHD 23.8\", Blanco",
-     "Descripcion": "[calidad visual para todo] visualiza las imágenes vibrantes de todas tus creaciones y evita el cansancio visual con la pantalla de tecnologia de libre parpadeo y reduccion de luz azul\n[videollamadas auténticas.] luce mejor con su cámara de seguridad emergente de alta resolución, audio poderoso y personalizado, que incluye software de cancelación de ruido; esta all-in-one está certificada para la mejor experiencia en tus videollamadas de zoom",
-     "Imagen": ".\/regalos\/96.jpg"
+     "Personas": "1",
+     "Edad": "12-18",
+     "Discapacidad": "no",
+     "Lugar": "Escuela",
+     "Respuesta": "Cubo rubik",
+     "Descripcion": "Descripccion: Un juego de destreza para jugar en solitario para pasar el rato",
+     "Imagen": ".\/juegos\/1.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "no",
+    "Lugar": "Escuela",
+    "Respuesta": "Juego del Ahorcado",
+    "Descripcion": "Descripccion: Juego para adivinar una palabra o frace osculto",
+    "Imagen": ".\/juegos\/2.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "no",
+    "Lugar": "Casa",
+    "Respuesta": "Juego de Rolles",
+    "Descripcion": "Descripccion: este juego se imaginan personajes y sus escenarios",
+    "Imagen": ".\/juegos\/3.png"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "no",
+    "Lugar": "Patio",
+    "Respuesta": "Lanzamiento de aros",
+    "Descripcion": "Descripccion: este juego consiste en colocar un cono a una cierta distancia y arrojar los aros en el",
+    "Imagen": ".\/juegos\/4.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Discapacidad Fisica",
+    "Lugar": "Escuela",
+    "Respuesta": "Juegos de cartas adaptados",
+    "Descripcion": "Descripccion: Juegos como UNO tarjetas grandes y de colores contrastantes pueden ser adaptados para hacerlos accesibles",
+    "Imagen": ".\/juegos\/5.png"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Discapacidad Fisica",
+    "Lugar": "Casa",
+    "Respuesta": "Juegos de mesa",
+    "Descripcion": "Descripccion: Juegos de mesa adaptados para todo el mundo",
+    "Imagen": ".\/juegos\/6.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Discapacidad Fisica",
+    "Lugar": "Patio",
+    "Respuesta": "Juego de pelota adaptado",
+    "Descripcion": "Descripccion: Juegos de pelota adaptado que consiste en arrojar la pelota a un objetivo a una cierta distancia",
+    "Imagen": ".\/juegos\/7.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Dicapacidad sensorial",
+    "Lugar": "Escuela",
+    "Respuesta": "Juego de Memoria tactil",
+    "Descripcion": "Descripccion: Tarjetas con diferentes texturas y patrones. Los jugadores deben emparejar las tarjetas basándose en el sentido del tacto.",
+    "Imagen": ".\/juegos\/8.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Discapacidad sensorial",
+    "Lugar": "Casa",
+    "Respuesta": "Bingo Sensorial",
+    "Descripcion": "Descripccion: Bingo con imágenes de objetos que representen diferentes texturas, olores o sonidos presentes en el hogar",
+    "Imagen": ".\/juegos\/9.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Discapacidad sensorial",
+    "Lugar": "Patio",
+    "Respuesta": "Carrera de Huevos Sonoros",
+    "Descripcion": "Descripccion: huevos de plástico con diferentes materiales que produzcan sonidos (arroz, piedras pequeñas) y organiza una carrera balanceando los huevos en cucharas",
+    "Imagen": ".\/juegos\/10.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Discapacidad cognitiva",
+    "Lugar": "Escuela",
+    "Respuesta": "Ordenar secuencias",
+    "Descripcion": "Descripccion: tarjetas con imágenes que representen pasos en una secuencia y pide a los jugadores que las ordenen correctamente.",
+    "Imagen": ".\/juegos\/11.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Discapacidad cognitiva",
+    "Lugar": "Casa",
+    "Respuesta": "Juegos de Burbujas",
+    "Descripcion": "Descripccion: Coloca objetos familiares en una bandeja, permíteles observarlos por un tiempo y luego ocúltalos. Los jugadores deben recordar y nombrar los objetos.",
+    "Imagen": ".\/juegos\/12.jpg"
+    },
+    {
+    "Personas": "2-3",
+    "Edad": "6-11",
+    "Discapacidad": "Discapacidad cognitiva",
+    "Lugar": "Patio",
+    "Respuesta": "Juegos de Burbujas",
+    "Descripcion": "Descripccion: Diviértanse con burbujas grandes y coloridas. Pueden intentar atraparlas, explotarlas o simplemente disfrutar de sus colores y formas.",
+    "Imagen": ".\/juegos\/13.jpg"
     }
-   ]
+    
+    
+    
+]
