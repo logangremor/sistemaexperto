@@ -52,8 +52,8 @@ class InterfazUsuario(Tk):
         self.lbl2.grid(row=2,column=3, padx=5, pady=5, sticky=W)
         radio4 = Radiobutton(self, text="6-11", font=('Arial', 13, "bold"), value=1, variable=self.selec2,bg="white").grid(row=3,column=3, columnspan=2, padx=5, pady=5, sticky=W)
         radio5 = Radiobutton(self, text="12-18", font=('Arial', 13, "bold"), value=2, variable=self.selec2,bg="white").grid(row=4,column=3, columnspan=2, padx=5, pady=5, sticky=W)
-        radio6 = Radiobutton(self, text="14-26", font=('Arial', 13, "bold"), value=13, variable=self.selec2,bg="white").grid(row=5,column=3, columnspan=2, padx=5, pady=5, sticky=W)
-        radio7 = Radiobutton(self, text="27 o más", font=('Arial', 13, "bold"), value=13, variable=self.selec2,bg="white").grid(row=5,column=3, columnspan=2, padx=5, pady=5, sticky=W)
+        radio6 = Radiobutton(self, text="19-26", font=('Arial', 13, "bold"), value=3, variable=self.selec2,bg="white").grid(row=5,column=3, columnspan=2, padx=5, pady=5, sticky=W)
+        radio7 = Radiobutton(self, text="27 o más", font=('Arial', 13, "bold"), value=4, variable=self.selec2,bg="white").grid(row=6,column=3, columnspan=2, padx=5, pady=5, sticky=W)
 
         #PREGUNTA 3
         self.lbl3 = Label(self, text="Persona Especial")
@@ -62,7 +62,7 @@ class InterfazUsuario(Tk):
         radio8 = Radiobutton(self, text="No", font=('Arial', 13, "bold"), value=1, variable=self.selec3,bg="white").grid(row=8,column=1, columnspan=2, padx=5, pady=5, sticky=W)
         radio9 = Radiobutton(self, text="Discapacidad física", font=('Arial', 13, "bold"), value=2, variable=self.selec3,bg="white").grid(row=9,column=1, columnspan=2, padx=5, pady=5, sticky=W)
         radio10 = Radiobutton(self, text="Discapacidad sensorial", font=('Arial', 13, "bold"), value=3, variable=self.selec3,bg="white").grid(row=10,column=1, columnspan=2, padx=5, pady=5, sticky=W)
-        radio11 = Radiobutton(self, text="Discapacidad cognitiva", font=('Arial', 13, "bold"), value=3, variable=self.selec3,bg="white").grid(row=11,column=1, columnspan=2, padx=5, pady=5, sticky=W)
+        radio11 = Radiobutton(self, text="Discapacidad cognitiva", font=('Arial', 13, "bold"), value=4, variable=self.selec3,bg="white").grid(row=11,column=1, columnspan=2, padx=5, pady=5, sticky=W)
         
         #PREGUNTA 4
         self.lbl4 = Label(self, text="Lugar")
